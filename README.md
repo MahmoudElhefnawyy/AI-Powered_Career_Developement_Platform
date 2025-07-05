@@ -45,3 +45,21 @@ const techStack = {
     linting: ["ESLint", "Prettier"]
   }
 }
+```
+
+# Clone the repository
+```
+git clone https://github.com/MahmoudElhefnawyy/AI-Powered_Career_Developement_Platform.git
+```
+# Install dependencies
+```
+npm install
+```
+# Start development server
+```
+npm run dev
+```
+# Build for production
+```
+npm run build
+```
